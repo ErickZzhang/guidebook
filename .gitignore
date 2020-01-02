@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+rnn/cats_and_dogs_small
+rnn/cats_and_dogs_small_1.h5
+rnn/cats_and_dogs_small_2.h5
+rnn/image_cam.jpg
+rnn/vgg16_weights_tf_dim_ordering_tf_kernels.h5
+rnn/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
