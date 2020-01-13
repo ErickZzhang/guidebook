@@ -13,3 +13,4 @@ rnn/cats_and_dogs_small_2.h5
 rnn/image_cam.jpg
 rnn/vgg16_weights_tf_dim_ordering_tf_kernels.h5
 rnn/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
+test.ipynb
