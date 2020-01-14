@@ -7,10 +7,10 @@
 *.iml
 out
 gen
-rnn/cats_and_dogs_small
-rnn/cats_and_dogs_small_1.h5
-rnn/cats_and_dogs_small_2.h5
-rnn/image_cam.jpg
-rnn/vgg16_weights_tf_dim_ordering_tf_kernels.h5
-rnn/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
+cnn/cats_and_dogs_small
+cnn/cats_and_dogs_small_1.h5
+cnn/cats_and_dogs_small_2.h5
+cnn/image_cam.jpg
+cnn/vgg16_weights_tf_dim_ordering_tf_kernels.h5
+cnn/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
 test.ipynb
